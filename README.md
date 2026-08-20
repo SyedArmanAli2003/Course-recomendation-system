@@ -68,13 +68,13 @@ No third-party package installation is required.
 
 ### Fedora / Linux
 ```bash
-cd course_recommendation_tool
+cd Course-recomendation-system
 python3 main.py
 ```
 
 ### Windows
 ```powershell
-cd course_recommendation_tool
+cd Course-recomendation-system
 python main.py
 ```
 
@@ -92,7 +92,7 @@ python -m unittest discover -s tests -v
 
 ## Project Structure
 ```text
-course_recommendation_tool/
+Course-recomendation-system/
 ├── main.py
 ├── models.py
 ├── recommendation_engine.py
