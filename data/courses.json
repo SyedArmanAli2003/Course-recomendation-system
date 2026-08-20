@@ -1,0 +1,472 @@
+[
+  {
+    "course_id": "C001",
+    "title": "Python Programming Fundamentals",
+    "category": "Programming",
+    "level": "Beginner",
+    "interests": [
+      "Programming",
+      "Python"
+    ],
+    "prerequisites": [],
+    "skills_taught": [
+      "Python",
+      "Problem Solving",
+      "Functions"
+    ],
+    "career_goals": [
+      "Python Developer",
+      "Backend Developer",
+      "Data Analyst"
+    ],
+    "description": "Build a strong foundation in Python syntax, functions, collections, and problem solving."
+  },
+  {
+    "course_id": "C002",
+    "title": "Python for Data Science",
+    "category": "Data Science",
+    "level": "Beginner",
+    "interests": [
+      "Data Science",
+      "Machine Learning"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "skills_taught": [
+      "Pandas",
+      "NumPy",
+      "Data Analysis"
+    ],
+    "career_goals": [
+      "Data Scientist",
+      "Data Analyst",
+      "ML Engineer"
+    ],
+    "description": "Use Python tools to clean, analyze, and prepare structured data."
+  },
+  {
+    "course_id": "C003",
+    "title": "Machine Learning Fundamentals",
+    "category": "Artificial Intelligence",
+    "level": "Beginner",
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "skills_taught": [
+      "Machine Learning",
+      "Scikit-Learn",
+      "Model Evaluation"
+    ],
+    "career_goals": [
+      "ML Engineer",
+      "Data Scientist",
+      "AI Engineer"
+    ],
+    "description": "Learn supervised and unsupervised machine learning with explainable practical examples."
+  },
+  {
+    "course_id": "C004",
+    "title": "Statistics for Data Science",
+    "category": "Data Science",
+    "level": "Beginner",
+    "interests": [
+      "Data Science",
+      "Statistics"
+    ],
+    "prerequisites": [],
+    "skills_taught": [
+      "Statistics",
+      "Probability",
+      "Hypothesis Testing"
+    ],
+    "career_goals": [
+      "Data Scientist",
+      "Data Analyst",
+      "ML Engineer"
+    ],
+    "description": "Understand probability, distributions, descriptive statistics, and hypothesis testing."
+  },
+  {
+    "course_id": "C005",
+    "title": "SQL for Data Analysis",
+    "category": "Data",
+    "level": "Beginner",
+    "interests": [
+      "Data Analysis",
+      "Databases"
+    ],
+    "prerequisites": [],
+    "skills_taught": [
+      "SQL",
+      "Joins",
+      "Aggregation"
+    ],
+    "career_goals": [
+      "Data Analyst",
+      "Data Scientist",
+      "Backend Developer"
+    ],
+    "description": "Query relational datasets using filters, joins, grouping, and aggregate functions."
+  },
+  {
+    "course_id": "C006",
+    "title": "Data Visualization with Python",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "interests": [
+      "Data Science",
+      "Data Analysis"
+    ],
+    "prerequisites": [
+      "Python",
+      "Pandas"
+    ],
+    "skills_taught": [
+      "Matplotlib",
+      "Visualization",
+      "Data Storytelling"
+    ],
+    "career_goals": [
+      "Data Analyst",
+      "Data Scientist"
+    ],
+    "description": "Create clear visualizations and communicate insights from data."
+  },
+  {
+    "course_id": "C007",
+    "title": "Introduction to Artificial Intelligence",
+    "category": "Artificial Intelligence",
+    "level": "Beginner",
+    "interests": [
+      "Artificial Intelligence"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "skills_taught": [
+      "AI Concepts",
+      "Search",
+      "Reasoning"
+    ],
+    "career_goals": [
+      "AI Engineer",
+      "ML Engineer"
+    ],
+    "description": "Explore core AI concepts, intelligent search, reasoning, and practical applications."
+  },
+  {
+    "course_id": "C008",
+    "title": "Deep Learning Fundamentals",
+    "category": "Artificial Intelligence",
+    "level": "Intermediate",
+    "interests": [
+      "Artificial Intelligence",
+      "Deep Learning"
+    ],
+    "prerequisites": [
+      "Python",
+      "Machine Learning"
+    ],
+    "skills_taught": [
+      "Neural Networks",
+      "PyTorch",
+      "Deep Learning"
+    ],
+    "career_goals": [
+      "AI Engineer",
+      "ML Engineer",
+      "Data Scientist"
+    ],
+    "description": "Learn neural-network fundamentals and build small deep-learning models."
+  },
+  {
+    "course_id": "C009",
+    "title": "Advanced Deep Learning with PyTorch",
+    "category": "Artificial Intelligence",
+    "level": "Advanced",
+    "interests": [
+      "Artificial Intelligence",
+      "Deep Learning"
+    ],
+    "prerequisites": [
+      "Python",
+      "Machine Learning",
+      "Linear Algebra"
+    ],
+    "skills_taught": [
+      "PyTorch",
+      "CNNs",
+      "Optimization"
+    ],
+    "career_goals": [
+      "AI Engineer",
+      "ML Engineer"
+    ],
+    "description": "Study advanced neural architectures, training techniques, and model optimization."
+  },
+  {
+    "course_id": "C010",
+    "title": "Natural Language Processing",
+    "category": "Artificial Intelligence",
+    "level": "Intermediate",
+    "interests": [
+      "Artificial Intelligence",
+      "NLP"
+    ],
+    "prerequisites": [
+      "Python",
+      "Machine Learning"
+    ],
+    "skills_taught": [
+      "NLP",
+      "Text Processing",
+      "Transformers"
+    ],
+    "career_goals": [
+      "AI Engineer",
+      "ML Engineer",
+      "Data Scientist"
+    ],
+    "description": "Analyze human language with preprocessing, classical NLP, and transformer concepts."
+  },
+  {
+    "course_id": "C011",
+    "title": "Computer Vision Fundamentals",
+    "category": "Artificial Intelligence",
+    "level": "Intermediate",
+    "interests": [
+      "Artificial Intelligence",
+      "Computer Vision"
+    ],
+    "prerequisites": [
+      "Python",
+      "Machine Learning"
+    ],
+    "skills_taught": [
+      "Computer Vision",
+      "OpenCV",
+      "Image Processing"
+    ],
+    "career_goals": [
+      "AI Engineer",
+      "ML Engineer"
+    ],
+    "description": "Work with images using classical vision methods and introductory learning techniques."
+  },
+  {
+    "course_id": "C012",
+    "title": "Python Backend Development",
+    "category": "Software Development",
+    "level": "Intermediate",
+    "interests": [
+      "Programming",
+      "Web Development"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "skills_taught": [
+      "APIs",
+      "Backend Development",
+      "Testing"
+    ],
+    "career_goals": [
+      "Python Developer",
+      "Backend Developer"
+    ],
+    "description": "Build maintainable Python backend services and understand API design."
+  },
+  {
+    "course_id": "C013",
+    "title": "Flask Web Development",
+    "category": "Software Development",
+    "level": "Intermediate",
+    "interests": [
+      "Web Development",
+      "Programming"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "skills_taught": [
+      "Flask",
+      "Routing",
+      "Web APIs"
+    ],
+    "career_goals": [
+      "Python Developer",
+      "Backend Developer"
+    ],
+    "description": "Create web applications and APIs using Flask."
+  },
+  {
+    "course_id": "C014",
+    "title": "Git and GitHub Essentials",
+    "category": "Software Development",
+    "level": "Beginner",
+    "interests": [
+      "Programming",
+      "Software Engineering"
+    ],
+    "prerequisites": [],
+    "skills_taught": [
+      "Git",
+      "GitHub",
+      "Version Control"
+    ],
+    "career_goals": [
+      "Python Developer",
+      "Backend Developer",
+      "ML Engineer",
+      "AI Engineer"
+    ],
+    "description": "Learn version control, branching, commits, and collaborative GitHub workflows."
+  },
+  {
+    "course_id": "C015",
+    "title": "Data Structures with Python",
+    "category": "Programming",
+    "level": "Intermediate",
+    "interests": [
+      "Programming",
+      "Algorithms"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "skills_taught": [
+      "Data Structures",
+      "Algorithms",
+      "Complexity"
+    ],
+    "career_goals": [
+      "Python Developer",
+      "Backend Developer",
+      "ML Engineer"
+    ],
+    "description": "Practice lists, stacks, queues, trees, searching, sorting, and complexity."
+  },
+  {
+    "course_id": "C016",
+    "title": "Cloud Fundamentals",
+    "category": "Cloud Computing",
+    "level": "Beginner",
+    "interests": [
+      "Cloud Computing",
+      "Software Engineering"
+    ],
+    "prerequisites": [],
+    "skills_taught": [
+      "Cloud Concepts",
+      "Compute",
+      "Storage"
+    ],
+    "career_goals": [
+      "Cloud Engineer",
+      "Backend Developer",
+      "ML Engineer"
+    ],
+    "description": "Understand essential cloud concepts, compute, storage, networking, and deployment."
+  },
+  {
+    "course_id": "C017",
+    "title": "MLOps Fundamentals",
+    "category": "Artificial Intelligence",
+    "level": "Intermediate",
+    "interests": [
+      "Machine Learning",
+      "Software Engineering"
+    ],
+    "prerequisites": [
+      "Python",
+      "Machine Learning",
+      "Git"
+    ],
+    "skills_taught": [
+      "MLOps",
+      "Model Deployment",
+      "Experiment Tracking"
+    ],
+    "career_goals": [
+      "ML Engineer",
+      "AI Engineer"
+    ],
+    "description": "Learn how machine-learning systems are packaged, deployed, tracked, and maintained."
+  },
+  {
+    "course_id": "C018",
+    "title": "Model Deployment with FastAPI",
+    "category": "Artificial Intelligence",
+    "level": "Intermediate",
+    "interests": [
+      "Machine Learning",
+      "Web Development"
+    ],
+    "prerequisites": [
+      "Python",
+      "Machine Learning"
+    ],
+    "skills_taught": [
+      "FastAPI",
+      "REST APIs",
+      "Model Deployment"
+    ],
+    "career_goals": [
+      "ML Engineer",
+      "AI Engineer",
+      "Backend Developer"
+    ],
+    "description": "Expose trained models through simple REST APIs using FastAPI."
+  },
+  {
+    "course_id": "C019",
+    "title": "Exploratory Data Analysis",
+    "category": "Data Science",
+    "level": "Beginner",
+    "interests": [
+      "Data Science",
+      "Data Analysis"
+    ],
+    "prerequisites": [
+      "Python"
+    ],
+    "skills_taught": [
+      "EDA",
+      "Pandas",
+      "Data Cleaning"
+    ],
+    "career_goals": [
+      "Data Analyst",
+      "Data Scientist"
+    ],
+    "description": "Inspect, clean, summarize, and understand datasets before modeling."
+  },
+  {
+    "course_id": "C020",
+    "title": "Linux for Developers",
+    "category": "Software Development",
+    "level": "Beginner",
+    "interests": [
+      "Software Engineering",
+      "Programming"
+    ],
+    "prerequisites": [],
+    "skills_taught": [
+      "Linux",
+      "Shell",
+      "File System"
+    ],
+    "career_goals": [
+      "Backend Developer",
+      "Cloud Engineer",
+      "ML Engineer",
+      "AI Engineer"
+    ],
+    "description": "Learn practical Linux commands, files, processes, permissions, and shell workflows."
+  }
+]
